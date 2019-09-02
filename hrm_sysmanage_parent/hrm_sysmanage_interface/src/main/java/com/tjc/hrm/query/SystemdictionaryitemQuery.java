@@ -4,7 +4,7 @@ package com.tjc.hrm.query;
 /**
  *
  * @author tjc
- * @since 2019-08-30
+ * @since 2019-09-01
  */
 public class SystemdictionaryitemQuery extends BaseQuery{
 }

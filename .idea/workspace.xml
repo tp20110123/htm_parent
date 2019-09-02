@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d009aca7-8c06-4ad4-9f41-c2679ddad90a" name="Default" comment="" />
+    <list default="true" id="d009aca7-8c06-4ad4-9f41-c2679ddad90a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/hrm_course_interface.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_parent.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/hrm_course_server_9002.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/CourseApplication_9002.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap_bak.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/course.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/hrm_config_server.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/java/com/tjc/hrm/ConfigServer8848Application.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/application.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap_bak.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap_bak.yml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" afterPath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/hrm_zuul9527.iml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/hrm_zuul9527.iml" />
+      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/hrm_support_parent/pom.xml" afterPath="$PROJECT_DIR$/hrm_support_parent/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionary.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionary.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionaryitem.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionaryitem.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/hrm_sysmanage_service.iml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/hrm_sysmanage_service.iml" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryMapper.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryMapper.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryitemMapper.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryitemMapper.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryService.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryService.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryitemService.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryitemService.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryServiceImpl.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryitemServiceImpl.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryitemServiceImpl.java" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryMapper.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryitemMapper.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryitemMapper.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hrm_support_parent/target/" />
@@ -13,6 +71,11 @@
     <ignored path="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/target/" />
     <ignored path="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/target/" />
     <ignored path="$PROJECT_DIR$/hrm_mabatisplus_gen/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_parent/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_parent/hrm_course_service/target/" />
+    <ignored path="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +83,127 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DocumentationConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Swagger2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalCorsConfig.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseApplication_9002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/CourseApplication_9002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#491#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseTypeMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/com/tjc/hrm/mapper/CourseTypeMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap_bak.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap_bak.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="61" column="21" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="61" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="379">
+              <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,13 +215,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>\</find>
+      <find>sysmanage</find>
     </findStrings>
     <replaceStrings>
       <replace>\\</replace>
+      <replace>course</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -62,8 +247,6 @@
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/SysmanageApplication9001.java" />
-        <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/sysmanage.properties" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/client/SystemdictionaryClient.java" />
         <option value="$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/pom.xml" />
         <option value="$PROJECT_DIR$/hrm_basic_parent/pom.xml" />
@@ -74,15 +257,33 @@
         <option value="$PROJECT_DIR$/hrm_support_parent/pom.xml" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/pom.xml" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/IUserService.java" />
-        <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/test/java/com/tjc/hrm/UserServiceTest.java" />
-        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" />
         <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/config/Swagger2.java" />
-        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" />
         <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/java/com/tjc/hrm/ConfigServer8848Application.java" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/sysmanage.properties" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_service/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_service_9002/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/Course9002Application.java" />
+        <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/CourseApplication_9002.java" />
+        <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" />
+        <option value="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/course.properties" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap.yml" />
         <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/pom.xml" />
+        <option value="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java" />
       </list>
     </option>
   </component>
@@ -110,31 +311,31 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hrm_basic_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hrm_config_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hrm_basic_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hrm_config_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hrm_sysmanage_interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="hrm_course_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="hrm_sysmanage_interface" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="hrm_course_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="477" />
-    <option name="y" value="131" />
+    <option name="x" value="-78" />
+    <option name="y" value="925" />
     <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="height" value="618" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -151,7 +352,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,17 +365,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/manager/hrm" />
+    <property name="last_opened_file_path" value="E:/上课课件及视频/4.16/2019-08-31-HRM(人力资源管理)-DAY02/code/hrm_parent" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -182,9 +383,14 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\worksapce\idea\htm_parent\hrm_mabatisplus_gen\src\main\resources" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_sysmanage_parent\hrm_sysmanage_service\src\main\resources" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_course_parent\hrm_course_server_9002\src\main\resources" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.tjc.hrm" />
     </key>
@@ -194,11 +400,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\worksapce\idea\htm_parent\hrm_sysmanage_parent\hrm_sysmanage_service\src\main\resources" />
-      <recent name="E:\worksapce\idea\htm_parent\hrm_sysmanage_parent\hrm_sysmanage_service\src\test" />
-      <recent name="E:\worksapce\idea\htm_parent\hrm_sysmanage_parent\hrm_sysmanage_service\src\test\java" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_course_parent\hrm_course_server_9002\src\main\resources" />
       <recent name="E:\worksapce\idea\htm_parent\hrm_mabatisplus_gen\src\main\resources" />
-      <recent name="E:\worksapce\idea\htm_parent\hrm_basic_parent\hrm_basic_util\src\main\java\com\tjc\hrm\util\encrypt" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_mabatisplus_gen\src\main\resources\templates" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_sysmanage_parent\hrm_sysmanage_service\src\main\resources\com" />
+      <recent name="E:\worksapce\idea\htm_parent\hrm_support_parent\hrm_zuul9527\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,7 +424,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.UserServiceTest.test">
+  <component name="RunManager" selected="Application.GenteratorCode">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -356,6 +562,30 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
+    <configuration name="ConfigServer8848Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tjc.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tjc.hrm.ConfigServer8848Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="hrm_config_server" />
+      <envs />
+    </configuration>
+    <configuration name="CourseApplication_9002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tjc.hrm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tjc.hrm.CourseApplication_9002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="hrm_course_server_9002" />
+      <envs />
+    </configuration>
     <configuration name="EurekaServerApplication7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -425,19 +655,21 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="7">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication7001" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication9527" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.SysmanageApplication9001" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GenteratorCode" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.UserServiceTest.testGetAll" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.UserServiceTest" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.UserServiceTest.test" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ConfigServer8848Application" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.UserServiceTest.testGetAll" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.UserServiceTest" />
+      <item index="7" class="java.lang.String" itemvalue="JUnit.UserServiceTest.test" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.CourseApplication_9002" />
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.UserServiceTest.test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+        <item index="0" class="java.lang.String" itemvalue="Application.GenteratorCode" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.UserServiceTest.test" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.UserServiceTest.testGetAll" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.UserServiceTest" />
       </list>
@@ -462,6 +694,8 @@
       <workItem from="1567212959320" duration="1666000" />
       <workItem from="1567223290969" duration="5913000" />
       <workItem from="1567328210197" duration="1893000" />
+      <workItem from="1567337977775" duration="958000" />
+      <workItem from="1567339145195" duration="16138000" />
     </task>
     <servers />
   </component>
@@ -492,10 +726,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28675000" />
+    <option name="totallyTimeSpent" value="45771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="477" y="131" width="1346" height="688" extended-state="1" />
+    <frame x="-78" y="925" width="1346" height="618" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -504,24 +738,25 @@
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17260788" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3163152" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6233766" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23333333" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26127526" sideWeight="0.4829932" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27138415" sideWeight="0.65174127" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26127526" sideWeight="0.5170068" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18336888" sideWeight="0.3482587" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -529,7 +764,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32852387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -547,267 +781,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/ZuulApplication9527.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/sysmanage.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/templates/query.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="37" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/SysmanageApplication9001.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/clientHystrixFallbackFactory/SystemdictionaryClientHystrixFallbackFactory.java" />
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/clientHystrixFallbackFactory/SystemdictionaryitemClientHystrixFallbackFactory.java" />
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/templates/client.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/github/openfeign/feign-hystrix/9.5.1/feign-hystrix-9.5.1.jar!/feign/hystrix/FallbackFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/opensource/java/jdk1.8/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="50" column="18" lean-forward="false" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/src/main/java/com/tjc/hrm/util/AjaxResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/src/main/java/com/tjc/hrm/util/PageList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_basic_parent/hrm_basic_util/src/main/java/com/tjc/hrm/util/StrUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="35" column="44" lean-forward="false" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/templates/controller.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="7" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/templates/ClientHystrixFallbackFactory.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/IUserService.java" />
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="21" column="51" lean-forward="false" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryitemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryitemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryitemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionaryitem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/test/java/com/tjc/hrm/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/web/controller/SystemdictionaryitemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config.java" />
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/web/controller/SystemdictionaryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/config/Swagger2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="33" column="56" lean-forward="false" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="60" lean-forward="false" selection-start-line="30" selection-start-column="60" selection-end-line="30" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="27" column="37" lean-forward="false" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/client/SystemdictionaryitemClientHystrixFallbackFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/client/SystemdictionaryitemClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="16" lean-forward="false" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/client/SystemdictionaryClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/client/SystemdictionaryClientHystrixFallbackFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -819,30 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,31 +809,387 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="33" column="18" lean-forward="false" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="19">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java">
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap_bak.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="9" lean-forward="true" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
+        <state relative-caret-position="304">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/ZuulApplication9527.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hrm_support_parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="502">
           <caret line="32" column="0" lean-forward="false" selection-start-line="22" selection-start-column="3" selection-end-line="37" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/pom.xml">
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_config_server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
+        <state relative-caret-position="490">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="27" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/java/com/tjc/hrm/ConfigServer8848Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#427#428#0" expanded="false" />
+            <element signature="e#504#505#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_service_9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_service_9002/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_eureka/src/main/java/com/tjc/hrm/EurekaServerApplication7001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryitemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="54" column="67" lean-forward="false" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="35" column="36" lean-forward="false" selection-start-line="35" selection-start-column="36" selection-end-line="35" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap_bak.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="64" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="12" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/sysmanage.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/course.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/mapper/CourseTypeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/service/ICourseTypeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/service/impl/CourseTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/src/main/java/com/tjc/hrm/client/CourseTypeClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/src/main/java/com/tjc/hrm/client/CourseTypeClientHystrixFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/src/main/java/com/tjc/hrm/domain/CourseType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/src/main/java/com/tjc/hrm/query/CourseTypeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/SysmanageApplication9001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/web/controller/CourseTypeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap_bak.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/CourseApplication_9002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#491#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/com/tjc/hrm/mapper/CourseTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="15" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" column="63" lean-forward="false" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="61" column="21" lean-forward="false" selection-start-line="50" selection-start-column="7" selection-end-line="61" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="64" column="21" lean-forward="false" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -941,7 +1246,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hrm_basic_util</last-edited>
+          <last-edited>hrm_course_interface</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -1,0 +1,18 @@
+server:
+  port: 8848
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/tp20110123/hrm_config.git
+          username: tp20110123
+          password: t20110123
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    prefer-ip-address: true
