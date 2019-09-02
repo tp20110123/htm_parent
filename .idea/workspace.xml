@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d009aca7-8c06-4ad4-9f41-c2679ddad90a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_4_11_0_201803080745_r.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_4_11_0_201803080745_r.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_config_2_0_1_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/hrm_course_interface.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_interface/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_parent.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/hrm_course_server_9002.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/CourseApplication_9002.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/resources/bootstrap_bak.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_course_parent/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/resources/course.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/hrm_config_server.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/java/com/tjc/hrm/ConfigServer8848Application.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/application.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_config_server/src/main/resources/bootstrap.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap_bak.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap_bak.yml" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" afterPath="$PROJECT_DIR$/hrm_mabatisplus_gen/src/main/java/GenteratorCode.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/hrm_zuul9527.iml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/hrm_zuul9527.iml" />
-      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/DocumentationConfig.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/resources/bootstrap.yml" />
-      <change beforePath="$PROJECT_DIR$/hrm_support_parent/pom.xml" afterPath="$PROJECT_DIR$/hrm_support_parent/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionary.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionary.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionaryitem.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/domain/Systemdictionaryitem.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryQuery.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_interface/src/main/java/com/tjc/hrm/query/SystemdictionaryitemQuery.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/hrm_sysmanage_service.iml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/hrm_sysmanage_service.iml" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryMapper.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryMapper.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryitemMapper.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/mapper/SystemdictionaryitemMapper.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryService.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryService.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryitemService.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/ISystemdictionaryitemService.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryServiceImpl.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryitemServiceImpl.java" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/java/com/tjc/hrm/service/impl/SystemdictionaryitemServiceImpl.java" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/bootstrap.yml" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryMapper.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryitemMapper.xml" afterPath="$PROJECT_DIR$/hrm_sysmanage_parent/hrm_sysmanage_service/src/main/resources/com/tjc/hrm/mapper/SystemdictionaryitemMapper.xml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="d009aca7-8c06-4ad4-9f41-c2679ddad90a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/hrm_support_parent/target/" />
@@ -121,7 +63,7 @@
         <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -131,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
+              <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -332,8 +274,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-78" />
-    <option name="y" value="925" />
+    <option name="x" value="-40" />
+    <option name="y" value="833" />
     <option name="width" value="1346" />
     <option name="height" value="618" />
   </component>
@@ -695,7 +637,7 @@
       <workItem from="1567223290969" duration="5913000" />
       <workItem from="1567328210197" duration="1893000" />
       <workItem from="1567337977775" duration="958000" />
-      <workItem from="1567339145195" duration="16138000" />
+      <workItem from="1567339145195" duration="16242000" />
     </task>
     <servers />
   </component>
@@ -726,10 +668,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45771000" />
+    <option name="totallyTimeSpent" value="45875000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-78" y="925" width="1346" height="618" extended-state="1" />
+    <frame x="-40" y="833" width="1346" height="618" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -1178,7 +1120,7 @@
     <entry file="file://$PROJECT_DIR$/hrm_course_parent/hrm_course_server_9002/src/main/java/com/tjc/hrm/config/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1186,7 +1128,7 @@
     <entry file="file://$PROJECT_DIR$/hrm_support_parent/hrm_zuul9527/src/main/java/com/tjc/hrm/config/GlobalCorsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
